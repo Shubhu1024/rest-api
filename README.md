@@ -9,7 +9,4 @@ Features:
 - Pagination and search functionality
 
 Tech Stack:
--Node.js
--Express.js
--MongoDB
--JWT Authentication
+Node.js, Express.js,  MongoDB, JWT Authentication
